@@ -62,7 +62,7 @@ function App() {
 
       <Counter></Counter>
       <Dynamic></Dynamic>
-       <p>I am a React person</p>
+       <p>I am a riad</p>
        <ul>
         {
           Nayoks.map(riad=> <li> Name : {riad}</li>)
