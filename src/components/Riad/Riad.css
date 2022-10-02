@@ -1,4 +1,12 @@
 body{
-    background-color: #282c34;
+   background-color: rgb(252, 248, 243);
     
+}
+.CardHeadline{
+    background-color: rgb(31, 135, 231);
+    font-size: 20px;
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    margin-top: 20px;
+    border-radius: 10px;
 }
